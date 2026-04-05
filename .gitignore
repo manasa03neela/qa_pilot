@@ -73,6 +73,8 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+frontend/package-lock.json
+
 # PyBuilder
 .pybuilder/
 target/
