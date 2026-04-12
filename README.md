@@ -1,2 +1,1 @@
-# python
-Learning Python step-by-step
+Automation Testing using Playwright and ollama
